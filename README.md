@@ -2,6 +2,8 @@
 
 An implementation of the matrix code animation using a table because I can (with html css js only).
 
+[demo here](https://htmlpreview.github.io/?https://github.com/lucaasleaal/matrix-table/blob/master/index.html)
+
 ## Getting Started
 
 Well the code has a few comments, enough to understand what it does as it is not too big, and also submit improvements if you want to.
